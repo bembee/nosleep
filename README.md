@@ -3,3 +3,6 @@ You should run this, if you have problems with your PC turn off the screen or go
 
 ## System Req
 At least Windows 7 SP1 with powershell
+
+## Download
+https://github.com/bembee/nosleep/releases/download/1.0/nosleep.bat
